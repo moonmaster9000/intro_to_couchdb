@@ -162,9 +162,10 @@ Next, post it:
 
 Next, retrieve it:
 
-    $ curl curl $HOST/cms/cool-article-9000/matts-notes.txt
+    $ curl $HOST/cms/cool-article-9000/matts-notes.txt
 
 Done!
+
 
 ## Lesson #8: Querying
 
