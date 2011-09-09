@@ -1,4 +1,8 @@
-# CouchDB Training
+# Intro to CouchDB
+
+Follow along with this tutorial to grok the basics of CouchDB. 
+
+You'll need to install CouchDB onto your machine. A one-click installer for Mac OS X is available from http://couchbase.com
 
 ## Lesson #1: Creating a database
 
