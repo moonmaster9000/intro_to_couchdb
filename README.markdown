@@ -46,7 +46,7 @@ Now, let's put it in our database:
 
     $ curl -v -X POST $HOST/cms -d @matts-cool-article.js
 
-What happened? You like got an error message telling you that it's a bad content type:
+What happened? You likely got an error message telling you that it's a bad content type:
 
     {"error":"bad_content_type","reason":"Content-Type must be application/json"}
 
